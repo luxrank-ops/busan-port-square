@@ -1,0 +1,10 @@
+{
+  "name": "포트스퀘어 (PORT-SQUARE) - 부산항 항만종사자 커뮤니티",
+  "short_name": "포트스퀘어",
+  "description": "부산항 5만 항만 종사자를 위한 종합 광장 및 8대 직군별 전용 커뮤니티 플랫폼",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090D16",
+  "theme_color": "#090D16",
+  "orientation": "portrait-primary"
+}
